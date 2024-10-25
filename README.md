@@ -5,10 +5,8 @@ This project implements a Rule Engine that uses Abstract Syntax Trees (AST) to e
 Features
 
 •	Dynamic Rule Creation: Define rules using strings with logical operators (AND, OR) and conditions.
- ![Screenshot 2024-10-25 185357](https://github.com/user-attachments/assets/67306cef-d1e6-4dc1-b80b-670d727a50e6)
 
-
-•	Rule Combination: Combine multiple rules into a single AST structure.<img width="377" alt="352776988-0ffe41aa-7f9c-4fe1-9230-2091bbb16632" src="https://github.com/user-attachments/assets/4040c5a7-6c5e-4299-acb3-d768de8423cf">
+•	Rule Combination: Combine multiple rules into a single AST structure.
 
 •	Flexible Evaluation: Evaluate rules against input data to determine if conditions are met.
 
